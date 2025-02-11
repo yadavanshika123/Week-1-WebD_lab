@@ -1,0 +1,16 @@
+h1{
+    color:aqua;
+    align:center;
+    font-size: 200px;
+}
+.text{
+    color:chocolate;
+}
+
+* {
+    font-size: medium;
+    color:rgb(224, 148, 148);
+}
+#one{
+     font-size: medium;
+}
